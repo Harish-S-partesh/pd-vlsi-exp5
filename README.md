@@ -193,7 +193,8 @@ The complete Power Planning process makes sure Every Standard Cell receives enou
 • All the Standard Cells and Pins are placed as per the communication between them, i.e., Two communicating Cells are placed as close as possible so that shorter Net lengths can be used for connections as Shorter Net Lengths enable Better Timing Results.
 
 ### Fig.11 Placement of standard Cells 
-![Uploading WhatsApp Image 2025-12-02 at 13.10.53_87ba5ba4.jpg…]()
+![WhatsApp Image 2025-12-02 at 13 10 53_87ba5ba4](https://github.com/user-attachments/assets/734a2dad-5712-4a2d-a2f0-21406d190fa8)
+
 
 • You can toggle the Layer Visibility from the list on the Right. The List of Layers available are shown on the right under “Layer” tab with colour coding.
 
